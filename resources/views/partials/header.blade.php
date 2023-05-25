@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-primary">
+<nav class="navbar navbar-expand-sm navbar-light bg-primary position-sticky top-0 index_top">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">Excercise Movies</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarID" aria-controls="navbarID"
